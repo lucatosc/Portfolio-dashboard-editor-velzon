@@ -1,29 +1,6 @@
-# Webfolio Dashboard
-
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://portfolio-dashboard-mocha.vercel.app/">
+  <a href="#">
     <img src="src/assets/Webfolio.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,11 +12,9 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://portfolio-dashboard-mocha.vercel.app/">View Project</a>
+    <a href="#">View Project</a>
     •
     <a href="#">Report Bug</a>
-    •
-    <a href="https://github.com/Josephenoch/portfolio_dashboard/issues">Request Feature</a>
   </p>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -66,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://github.com/Josephenoch/chat-up">
+<a href="#">
     <img src="src/assets/about.png" alt="about page">
     <img src="src/assets/experience.png" alt="experience page">
     <img src="src/assets/education.png" alt="education page">
@@ -75,10 +50,6 @@
     <img src="src/assets/messages.png" alt="messages page">
   </a>
 The Webfolio Dashboard is a part of the Webfolio Application. Here, Users can edit and change the contents of their Portfolio.
-
-**Version 1.0.0**
-
-[Visit my Personal Portfolio](https://josephenoch.github.io/reactportfolio)
 
 ---
 
@@ -172,17 +143,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Contributors
 
-[Joseph Enoch](https://github.com/josephenoch)
-
-## Contact
-
-Twitter - [@EnochJoseph01](https://twitter.com/enochjoseph01)<br>
-LinkedIn - [Joseph Enoch](https://www.linkedin.com/in/joseph-enoch/)
-
-Project Link: [Webfolio Dashboard](https://portfolio-dashboard-mocha.vercel.app/))
-
----
+[Luca Toscano](https://github.com/lucatosc)
 
 ## Licenses and Copyright
-
-&copy; Joseph Enoch 2021 - 2022
