@@ -3,9 +3,7 @@
   <a href="#">
     <img src="src/assets/Webfolio.jpg" alt="Logo" width="80" height="80">
   </a>
-
-<h3 align="center">Webfolio Dashboard</h3>
-
+  <h3 align="center">Webfolio Dashboard</h3>
   <p align="center">
     The Webfolio Dashboard is a part of the Webfolio Application. Here, Users can edit and change the contents of their Portfolio.
     <br />
